@@ -102,7 +102,7 @@ nav button:hover {
   justify-content: space-between;
   align-items: center;
   font-size: 1.5em;
-  transform: translateY(35%);
+  transform: translateY(50%);
 }
 
 .main-text h1 {
