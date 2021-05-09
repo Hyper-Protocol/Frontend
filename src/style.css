@@ -40,7 +40,6 @@ button {
   padding: 20px 10%;
   justify-content: space-between;
   align-items: center;
-  position: sticky;
   top: 0;
   z-index: 99999;
 }
@@ -108,7 +107,7 @@ nav button:hover {
   justify-content: space-between;
   align-items: center;
   font-size: 1.5em;
-  transform: translateY(50%);
+  transform: translateY(30%);
 }
 
 .main-text h1 {
@@ -209,22 +208,5 @@ hr {
     margin-top: 0;
     transform: translateY(30px);
   }
-
-  .logo {
-    margin-top: 50px;
-  }
-  .animation {
-    animation-name: side;
-  }
-  @keyframes side {
-    0% {
-      transform: translateX(-10%);
-    }
-    50% {
-      transform: translateX(20%);
-    }
-    100% {
-      transform: translateX(-10%);
-    }
-  }
+  
 }
