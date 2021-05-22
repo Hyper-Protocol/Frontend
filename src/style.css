@@ -45,11 +45,11 @@ body::-webkit-scrollbar-thumb {
   border: 1.5px solid white;  /* creates padding around scroll thumb */
 }
 
-/**
+
 button {
   border-radius: 20px;
 }
-**/
+
 
 /** Nav Bar **/
 .navigation {
